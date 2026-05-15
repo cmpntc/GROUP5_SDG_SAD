@@ -30,8 +30,8 @@ By digitizing school services and improving operational efficiency through techn
 
 
 # Contributors
-| Michael John E. Anacta - Documentation & DFD |
-| Crishia V. Bacero - ERD & DFD|
-| Crave Joshley E. Guerrero | Validation Plan |
-| Carryl Mariz M. Patawaran | UI/UX Prototype & Documentation |
+- Michael John E. Anacta - DFD 
+- Crishia V. Bacero - ERD & DFD
+- Crave Joshley E. Guerrero - Validation Plan & Testing
+- Carryl Mariz M. Patawaran - UI/UX Prototype & Documentation |
 
