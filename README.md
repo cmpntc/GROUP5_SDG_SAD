@@ -1,33 +1,37 @@
-UniQueue – SDAD Project
+# UniQueue
+### SDG Goal 9 – Industry, Innovation, and Infrastructure
 
-Overview
-UniQueue is a queue and appointment management system for school services.
-
-Features
-- Appointment Scheduling
-- Real-Time Queue Monitoring
-- Queue Management
+# Problem Statement
+Students experience long waiting times and overcrowding in school offices due to manual queueing systems. UniQueue solves this by providing a web-based appointment and queue management system with real-time monitoring.
 
 
-Repository Structure
-[GROUP_NAME_SDG_SAD]
-├── DOCUMENTATION/
-│   ├── 01_SRS_Final.pdf
-│   ├── 02_SDAD_Final.pdf
-│   ├── 03_UI_design_Final.pdf
-│   └── INTERVIEWS/ (Raw notes)
-├── MODELS/
-│   ├── DFD/ (PNG exports)
-│   ├── ERD/ (PNG exports)
-│   └── USE_CASES
-├── PROTOTYPE/ (Mockups/Links)
-└── README.md (Portfolio-ready landing page)
+# Project Description
+UniQueue is a web-based Queue and Appointment Management System designed for school offices such as the Registrar and Cashier.
 
-By:
-Anacta, Michael John E. 
-Bacero, Crishia V. 
-Guerrero, Crave Joshley E. 
-Patawaran, Carryl Mariz M. 
+The system allows:
+- Online appointment booking
+- Real-time queue monitoring
+- Queue management for staff
+- Notifications and updates
+- Secure login system
 
-BSIT 2.3
-National Teachers College
+The architecture follows a 3-Tier Structure:
+- Presentation Layer
+- Logic Layer
+- Data Layer
+This architecture improves scalability, maintainability, and security.
+
+
+
+# SDG Goal
+## SDG 9 – Industry, Innovation, and Infrastructure
+By digitizing school services and improving operational efficiency through technology.
+
+
+
+# Contributors
+| Michael John E. Anacta - Documentation & DFD |
+| Crishia V. Bacero - ERD & DFD|
+| Crave Joshley E. Guerrero | Validation Plan |
+| Carryl Mariz M. Patawaran | UI/UX Prototype & Documentation |
+
